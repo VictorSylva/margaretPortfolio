@@ -7,7 +7,7 @@ const Info = () => {
         <i class="uil uil-calendar-alt"></i>
 
             <h3 className='about_title'>DOB</h3>
-            <span className='about_subtitle'>15th March, 1963
+            <span className='about_subtitle'>15th March, 1963 
             </span>
         </div>
         <div className='about_box'>
