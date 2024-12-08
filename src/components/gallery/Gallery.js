@@ -11,7 +11,7 @@ const Gallery = () => {
   return (
     <section className='gallery container section' id='gallery'>
         <h2 className='section__title'>Gallery </h2>
-        <span className='section__subtitle'>Testament </span>
+        <span className='section__subtitle'>Testament</span>
         
       
       <Swiper className='gallery_container'
