@@ -10,7 +10,7 @@ const Footer = () => {
 
             <ul className='footer_list'>
                 <li>
-                    <a href='#about' className='footer_link'>About</a>
+                    <a href='#about' className='footer_link'>About </a>
                 </li>
 
                 <li>
