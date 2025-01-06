@@ -54,6 +54,5 @@ export const Gdata = [
     image: g15},
   { id: 3,
     image: g16},
-
   // ...
 ];

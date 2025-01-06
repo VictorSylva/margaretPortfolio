@@ -36,7 +36,7 @@ const Gallery = () => {
                 return (
                     <SwiperSlide className='gallery_card' key={id}>
                         <img src={image} alt="" 
-                        className='gallery_img'/>
+                        className='gallery_img' />
                     </SwiperSlide>
                 );
             })}
